@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Neji.MainPage">
+
+    <StackLayout>
+        <Image BackgroundColor="SlateGray" Source="Resources\images\Neji.png" Aspect="Fill" IsEnabled="True" >
+            
+        </Image>
+    </StackLayout>
+
+</ContentPage>
